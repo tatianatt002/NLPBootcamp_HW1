@@ -1,0 +1,7 @@
+NLPBootcamp_HW1
+# Coding Practice:implementation of fully connected NN
+## create based layer: given layer.py
+## create dense layer: to implement, fc_layer.py
+## create activation layer
+## implement activation function(Tanh) and loss function(mse)
+## solve XOR (yes/no problems)
